@@ -164,7 +164,7 @@ Below is a sample response for the `GET /book/{id}` request:
 
 ## 📄 **License**
 
-This project is licensed under the **MIT License**. For details, refer to the [LICENSE](C:\Users\puroh\Downloads\_  library-management-system\LICENSE) file.
+This project is licensed under the **MIT License**. For details, refer to the [LICENSE](https://github.com/Purohit1999/Spring-Boot-Library-Management-System-Project/blob/main/LICENSE) file.
 
 ---
 
@@ -177,7 +177,7 @@ We welcome contributions! Please follow the steps below:
 4. Push to the branch (`git push origin feature-branch-name`).
 5. Open a Pull Request.
 
-For guidelines, refer to the [LICENSE](C:\Users\puroh\Downloads\_  library-management-system\LICENSE) file.
+For guidelines, refer to the [LICENSE](https://github.com/Purohit1999/Spring-Boot-Library-Management-System-Project/blob/main/LICENSE) file.
 
 ---
 
